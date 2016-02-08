@@ -1,4 +1,5 @@
 OLA Trigger config to control Philips Hue lights and Osram Lightify products with DMX.
+
 Osram Lightify products works when connected to a Philips Hue bridge.
 
 There is only one lamp and one Lightify plug in this simple example but you can easy add more.

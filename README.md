@@ -3,10 +3,7 @@ OLA Trigger config to control Philips Hue lights and Osram Lightify products wit
 Osram Lightify products works when connected to a Philips Hue bridge.
 
 Should also work with any other Zigbee Light Link (ZLL) product that can be connected to a Philips Hue bridge.
-For instance Cree LED Connected and GE Link lamps.
-
-According to the dutch site Tweakers, the new reasonably priced smart lighting products from IKEA would also use Zigbee Light Link for communication. 
-Origin: https://tweakers.net/nieuws/116079/ikea-begint-in-oktober-verkoop-schakelbare-verlichting-met-zigbee-light-link.html
+For instance Cree LED Connected, GE Link lamps and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA.
 
 There is only one lamp and one Lightify plug in this simple example but you can easy add more.
 The Hue bridge has some frame rate limits and I haven't checked the performance with more then one lamp.

@@ -1,9 +1,9 @@
-OLA Trigger config to control Philips Hue lights and Osram Lightify products with DMX (ArtNet, sACN or via DMX input)
+**OLA Trigger config to control Philips Hue lights and Osram Lightify products with DMX (ArtNet, sACN or via DMX input)**
 
 Osram Lightify products works when connected to a Philips Hue bridge.
 
 Should also work with any other Zigbee Light Link (ZLL) product that can be connected to a Philips Hue bridge.
-For instance Cree LED Connected, GE Link lamps and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA.
+For instance Cree LED Connected, GE Link lamps ~~and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA~~
 
 There is only one lamp and one Lightify plug in this simple example but you can easy add more.
 The Hue bridge has some frame rate limits and I haven't checked the performance with more then one lamp.

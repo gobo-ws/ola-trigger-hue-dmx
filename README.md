@@ -14,7 +14,7 @@ Check out the [Hue Developer site] (http://developers.meethue.com) for more info
 [OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
 **Usage**  
-Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.
+Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 
 `ola_trigger philips_hue_osram_lightify.conf`

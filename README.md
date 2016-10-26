@@ -5,7 +5,8 @@ Osram Lightify products works when paired with an Philips Hue bridge.
 Should in theory also work with any other Zigbee Light Link (ZLL) certified product that can be paired with an Philips Hue bridge. For instance Cree LED Connected, GE Link lamps ~~and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA~~
 
 There is only one lamp and one Lightify plug in this config but you can easy add more.    
-Please note that the Hue bridge has some frame rate limits. SyntheFX has a good [article] (http://support.synthe-fx.com/customer/portal/articles/1330326-philips-hue-response-times-vs-dmx) regarding Philips Hue response times vs. DMX.
+Please note that the Hue bridge has some frame rate limits.  
+SyntheFX has a good [article] (http://support.synthe-fx.com/customer/portal/articles/1330326-philips-hue-response-times-vs-dmx) regarding Philips Hue response times vs. DMX.
 
 Other things that can be added to this config is support for groups and so on.  
 Check out the [Hue Developer site] (http://developers.meethue.com) for more information.

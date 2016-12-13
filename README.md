@@ -2,7 +2,8 @@
 
 Osram Lightify products works when paired with an Philips Hue bridge.
 
-Should in theory also work with any other Zigbee Light Link (ZLL) certified product that can be paired with an Philips Hue bridge. For instance Cree LED Connected, GE Link lamps ~~and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA~~
+Should in theory also work with any other Zigbee Light Link (ZLL) certified product that can be paired with an Philips Hue bridge.
+For instance Cree LED Connected, GE Link lamps ~~and the new smart lighting products (TRÅDFRI, JORMLIEN, SURTE & FLOALT) from IKEA~~
 
 There is only one lamp and one Lightify plug in this config but you can easy add more.    
 Please note that the Hue bridge has some frame rate limits.  
@@ -11,13 +12,20 @@ SyntheFX has a good [article] (http://support.synthe-fx.com/customer/portal/arti
 Other things that can be added to this config is support for groups and so on.  
 Check out the [Hue Developer site] (http://developers.meethue.com) for more information.
 
-[OLA download] (https://www.openlighting.org/ola/)  
+**Requirements**
+
+* [OLA] (https://www.openlighting.org/ola/)
+* [curl] (https://curl.haxx.se/)
+* [Philips Hue bridge] (http://www2.meethue.com)
+
+**Installation**
+  
+* Download the [philips_hue_osram_lightify.conf] (philips_hue_osram_lightify.conf) or [philips_hue_color_gamut_b.conf] (philips_hue_color_gamut_b.conf) file and edit the configuration section.
+
 [OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
 **Usage**  
-Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
+* Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 
 `ola_trigger philips_hue_osram_lightify.conf`
-
-/Johan Nilsson

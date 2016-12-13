@@ -12,8 +12,6 @@ SyntheFX has a good [article] (http://support.synthe-fx.com/customer/portal/arti
 Other things that can be added to this config is support for groups and so on.  
 Check out the [Hue Developer site] (http://developers.meethue.com) for more information.
 
-[OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
-
 **Requirements**
 
 * [OLA] (https://www.openlighting.org/ola/)
@@ -24,7 +22,10 @@ Check out the [Hue Developer site] (http://developers.meethue.com) for more info
   
 * Download the [philips_hue_osram_lightify.conf] (philips_hue_osram_lightify.conf) or [philips_hue_color_gamut_b.conf] (philips_hue_color_gamut_b.conf) file and edit the configuration section.
 
-**Usage**  
+[OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
+
+**Usage** 
+
 * Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 

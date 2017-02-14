@@ -30,3 +30,5 @@ Check out the [Hue Developer site] (http://developers.meethue.com) for more info
 The config file is provided on the command line:
 
 `ola_trigger philips_hue_osram_lightify.conf`
+
+[![Analytics](https://ga-beacon.appspot.com/UA-91947244-1/gobo-ws/ola-trigger-hue-dmx?pixel)](https://github.com/igrigorik/ga-beacon)

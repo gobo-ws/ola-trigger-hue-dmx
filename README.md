@@ -3,9 +3,7 @@
 Lightify products works when paired with an Philips Hue bridge.
 
 Should in theory also work with any other Zigbee Light Link (ZLL) certified product that can be paired with an Philips Hue bridge.
-For instance lamps from [Cree LED Connected](http://creebulb.com/connected), [GE Link](http://www.gelinkbulbs.com/), [IKEA Trådfri](http://www.ikea.com/gb/en/products/lighting/smart-lighting)*, [Innr Lighting](https://www.innrlighting.com/en/), [Trust](http://www.trust.com/zigbee) etc.
-
-*Support for IKEA Trådfri is coming soon, otherwise you can use the [Trådfri trigger script](https://github.com/gobo-ws/ola-trigger-ikea-tradfri-dmx) together with the IKEA bridge.
+For instance lamps from [Cree LED Connected](http://creebulb.com/connected), [GE Link](http://www.gelinkbulbs.com/), [IKEA Trådfri](http://www.ikea.com/gb/en/products/lighting/smart-lighting) (works with firmware 1.2.217), [Innr Lighting](https://www.innrlighting.com/en/), [Trust](http://www.trust.com/zigbee) etc.
 
 There is only one lamp and one Lightify plug in this config but you can easy add more.    
 Please note that the Hue bridge has some frame rate limits.  

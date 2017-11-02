@@ -1,4 +1,4 @@
-**OLA Trigger config to control Philips Hue lights and Osram (LEDVANCE) Lightify products with DMX (ArtNet, sACN or via DMX input)**
+**OLA Trigger config to control Philips Hue lights and Osram (LEDVANCE) Lightify products with DMX (Art-Net, sACN or via DMX input)**
 
 Lightify products works when paired with an Philips Hue bridge.
 

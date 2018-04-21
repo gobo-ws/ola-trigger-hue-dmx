@@ -12,7 +12,7 @@ SyntheFX has a good [article](http://support.synthe-fx.com/customer/portal/artic
 Other things that can be added to this config is support for groups and so on.  
 Check out the [Hue Developer site](https://developers.meethue.com) for more information.
 
-This config also works with the deCONZ API from Dresden Elektronik.
+This config also works with the [deCONZ API](https://dresden-elektronik.github.io/deconz-rest-doc/) from Dresden Elektronik.
 
 **Requirements**
 

@@ -18,7 +18,7 @@ This config also works with the [deCONZ API](https://dresden-elektronik.github.i
 
 * [OLA](https://www.openlighting.org/ola/)
 * [curl](https://curl.haxx.se/)
-* [Philips Hue bridge](https://www2.meethue.com) or some of the [gateways from Dresden Elektronik](https://www.dresden-elektronik.de/funktechnik/solutions/wireless-light-control/gateways/?L=1)
+* [Philips Hue bridge](https://www2.meethue.com) alternatively a gateway from [Dresden Elektronik](https://www.dresden-elektronik.de/funktechnik/solutions/wireless-light-control/gateways/?L=1)
 
 **Installation**
   

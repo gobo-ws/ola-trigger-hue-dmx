@@ -3,20 +3,22 @@
 Lightify products works when paired with an Philips Hue bridge.
 
 Should in theory also work with any other Zigbee Light Link (ZLL) certified product that can be paired with an Philips Hue bridge.
-For instance lamps from [Cree LED Connected](http://creebulb.com/connected), [GE Link](http://www.gelinkbulbs.com/), [IKEA Trådfri](http://www.ikea.com/gb/en/products/lighting/smart-lighting) (works with firmware 1.2.217), [Innr Lighting](https://www.innrlighting.com/en/), [Trust](http://www.trust.com/zigbee) etc.
+For instance lamps from [Cree LED Connected](http://creebulb.com/connected), [GE Link](https://www.gelinkbulbs.com/), [IKEA Trådfri](https://www.ikea.com/gb/en/products/lighting/smart-lighting) (works with firmware 1.2.217), [Innr Lighting](https://www.innrlighting.com/en/), [Trust](https://www.trust.com/zigbee) etc.
 
 There is only one lamp and one Lightify plug in this config but you can easy add more.    
 Please note that the Hue bridge has some frame rate limits.  
 SyntheFX has a good [article](http://support.synthe-fx.com/customer/portal/articles/1330326-philips-hue-response-times-vs-dmx) regarding Philips Hue response times vs. DMX.
 
 Other things that can be added to this config is support for groups and so on.  
-Check out the [Hue Developer site](http://developers.meethue.com) for more information.
+Check out the [Hue Developer site](https://developers.meethue.com) for more information.
+
+This config also works with the deCONZ API from Dresden Elektronik so you can use any of the following devices instead of a Philips Hue bridge: RaspBee, ConBee or Phoscon Gateway.
 
 **Requirements**
 
 * [OLA](https://www.openlighting.org/ola/)
 * [curl](https://curl.haxx.se/)
-* [Philips Hue bridge](http://www2.meethue.com)
+* [Philips Hue bridge](https://www2.meethue.com) or some of the [gateways from Dresden Elektronik](https://www.dresden-elektronik.de/funktechnik/solutions/wireless-light-control/gateways/?L=1)
 
 **Installation**
   

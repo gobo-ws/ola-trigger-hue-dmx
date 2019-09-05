@@ -17,7 +17,7 @@ Other things that can be added to this config is support for groups and so on.
 Check out the [Hue Developer site](https://developers.meethue.com) for more information.  
 I have done some successful tests with scenes, but these are not officially published yet.
 
-This config also works with the [deCONZ API](https://dresden-elektronik.github.io/deconz-rest-doc/) from Dresden Elektronik (does not support HTTPS at the moment though)
+This config also works with the [deCONZ API](https://dresden-elektronik.github.io/deconz-rest-doc/) from Dresden Elektronik ([HuePass](https://github.com/KodeCR/hue-pass) or similar solution is needed for SSL support)
 
 **Requirements**
 

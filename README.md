@@ -11,7 +11,7 @@ For instance lamps from [Cree LED Connected](http://creebulb.com/connected), [GE
 
 There is only one lamp and one Lightify plug in this config but you can easy add more.    
 Please note that the Hue bridge has some frame rate limits.  
-SyntheFX has a good [article](http://support.synthe-fx.com/customer/portal/articles/1330326-philips-hue-response-times-vs-dmx) regarding Philips Hue response times vs. DMX.
+SyntheFX has a good [article](https://support.synthe-fx.com/hc/en-us/articles/360034583252-Philips-Hue-Response-Times-vs-DMX) regarding Philips Hue response times vs. DMX.
 
 Other things that can be added to this config is support for groups and so on.  
 Check out the [Hue Developer site](https://developers.meethue.com) for more information.  

@@ -27,7 +27,7 @@ This config also works with the [deCONZ API](https://dresden-elektronik.github.i
 
 **Installation**
   
-* Download the [philips_hue_osram_lightify.conf](philips_hue_osram_lightify.conf) or [philips_hue_color_gamut_b.conf](philips_hue_color_gamut_b.conf) file and edit the configuration section.
+* Download the [philips_hue_osram_lightify.conf](philips_hue_osram_lightify.conf) or [philips_hue_color_gamut_b.conf](philips_hue_color_gamut_b.conf) file and edit the configuration section
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 

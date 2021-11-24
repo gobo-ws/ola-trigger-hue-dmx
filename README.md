@@ -2,6 +2,8 @@
 
 **OLA trigger config to control Philips Hue lights and Osram (LEDVANCE) Lightify products with DMX (Art-Net, sACN or via DMX input)**
 
+[Hue API V2 version (beta)](https://github.com/gobo-ws/ola-trigger-hue-api-v2-dmx)  
+
 [RGB version](https://github.com/gobo-ws/ola-trigger-rgb-hue-dmx)  
 
 Lightify products works when paired with an Philips Hue bridge.
